@@ -33,6 +33,13 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://api.githubtrends.io/user/svg/Rejaul42/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rejaul42&theme=aura_dark
+)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rejaul42&theme=aura_dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rejaul42&theme=aura_dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rejaul42&theme=aura_dark)](https://git.io/streak-stats)
+
 
 ## Technologies that i know
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,figma)](https://skillicons.dev)
