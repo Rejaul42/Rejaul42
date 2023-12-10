@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 
 ## Technologies that i know
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,figma,firebase,git,github,vercel,bootstrap,tailwind,vite,react,nextjs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vercel,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,vite,react,nextjs,nodejs)](https://skillicons.dev)
 
 ## 
