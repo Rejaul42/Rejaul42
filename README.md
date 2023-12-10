@@ -1,22 +1,14 @@
 [![An old rock in the desert](/image/Black%20Flatlay%20Photo%20Motivational%20Finance%20Quote%20Facebook%20Cover.png "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
 
-<!--
-**Rejaul42/Rejaul42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <code><h1 align="center">Hi 👋, I'm Rejaul Karim</h1></code>
 
 <code><p align="center">I am a passionate in full-stack web developer, particularly in the MERN stack (MongoDB, Express.js, React.js, and Node.js). i enjoy crafting responsive web application, solving complex problems and implementing innovative solution. Additionally I'm enthusiastic about continuous learning , staying update with the latest technology and contributing to impactful projects that make a difference.</p></code> 
+
+## Reach me out
+<code align="center"><button>[Linkedin](https://www.linkedin.com/in/rejaul-karim-884067297/)</button>
+<button>[Gmail](rejaulkarimraju91@gmail.com)</button>
+<button>[Facebook](https://www.facebook.com/rejaulkarimraju91/)</button>
+</code>
 
 
 ## Current Overview
@@ -43,8 +35,10 @@ Here are some ideas to get you started:
 
 ## Technologies that i know
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,figma)](https://skillicons.dev)
-<code></br></code>
+
 [![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vercel,bootstrap)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=tailwind,vite,react,nextjs,nodejs)](https://skillicons.dev)
 
-## 
+
+
