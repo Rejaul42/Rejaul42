@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<code><h1 align="center">Hi 👋, I'm Rejaul Karim</h1></code>
 
 ## About Me 
-### Hi 👋, I'm Rejaul Karim
+I am a passionate in full-stack web developer, particularly in the MERN stack (MongoDB, Express.js, React.js, and Node.js). i enjoy crafting responsive web application, solving complex problems and implementing innovative solution. Additionally I'm enthusiastic about continuous learning , staying update with the latest technology and contributing to impactful projects that make a difference.
 
+## Current Overview
 - 🔭 I’m currently working on: MERN stack project to improve my skills and abilities.
 - 🌱 I’m currently learning: Advance techniques in react, Next.js, Node.js, MongoDB .
 - 👯 I’m looking to collaborate on: Innovative project that challenge and expand my MERN stack expertise.
@@ -26,3 +27,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about: JavaScript, react, Node.js, Express .
 - 😄 I'm trying- To make positive impact by using my web development skills to support. 
 - ⚡ Fun fact: I love to exploring new code challenges.
+
+## Current Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rejaul42&theme=python-dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://api.githubtrends.io/user/svg/Rejaul42/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)](https://git.io/streak-stats)
+
+
+## Technologies that i know
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,figma,firebase,git,github,vercel,bootstrap,tailwind,vite,react,nextjs,nodejs)](https://skillicons.dev)
+
+## 
