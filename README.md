@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <code><h1 align="center">Hi 👋, I'm Rejaul Karim</h1></code>
 
-<code><h1 align="center">I am a passionate in full-stack web developer, particularly in the MERN stack (MongoDB, Express.js, React.js, and Node.js). i enjoy crafting responsive web application, solving complex problems and implementing innovative solution. Additionally I'm enthusiastic about continuous learning , staying update with the latest technology and contributing to impactful projects that make a difference.</h1></code> 
+<code><p align="center">I am a passionate in full-stack web developer, particularly in the MERN stack (MongoDB, Express.js, React.js, and Node.js). i enjoy crafting responsive web application, solving complex problems and implementing innovative solution. Additionally I'm enthusiastic about continuous learning , staying update with the latest technology and contributing to impactful projects that make a difference.</p></code> 
 
 
 ## Current Overview
