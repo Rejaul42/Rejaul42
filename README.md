@@ -5,9 +5,10 @@
 <code><p align="center">I am a passionate in full-stack web developer, particularly in the MERN stack (MongoDB, Express.js, React.js, and Node.js). i enjoy crafting responsive web application, solving complex problems and implementing innovative solution. Additionally I'm enthusiastic about continuous learning , staying update with the latest technology and contributing to impactful projects that make a difference.</p></code> 
 
 ## Reach me out
-<code align="center"><button>[Linkedin](https://www.linkedin.com/in/rejaul-karim-884067297/)</button>
+<code><div align="center"><button>[Linkedin](https://www.linkedin.com/in/rejaul-karim-884067297/)</button>
 <button>[Gmail](rejaulkarimraju91@gmail.com)</button>
 <button>[Facebook](https://www.facebook.com/rejaulkarimraju91/)</button>
+</div>
 </code>
 
 
@@ -34,11 +35,13 @@
 
 
 ## Technologies that i know
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,figma)](https://skillicons.dev)
+<code> <div align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,figma)](https://skillicons.dev) </div></code>
+<code> <div align="center">[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vercel,bootstrap)](https://skillicons.dev)</div></code>
+<code> <div align="center">[![My Skills](https://skillicons.dev/icons?i=tailwind,vite,react,nextjs,nodejs)](https://skillicons.dev) </div></code>
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vercel,bootstrap)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,vite,react,nextjs,nodejs)](https://skillicons.dev)
+
+
 
 
 
