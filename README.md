@@ -7,7 +7,14 @@
 
 
 
-
+## Current Overview
+- 🔭 I’m currently working on: MERN stack project to improve my skills and abilities.
+- 🌱 I’m currently learning: Advance techniques in react, Next.js, Node.js, MongoDB .
+- 👯 I’m looking to collaborate on: Innovative project that challenge and expand my MERN stack expertise.
+- 🤔 I’m looking for help with: mastering best practice in code organization, debugging and efficient utilization of MERNT stack.
+- 💬 Ask me about: JavaScript, react, Node.js, Express .
+- 😄 I'm trying- To make positive impact by using my web development skills to support. 
+- ⚡ Fun fact: I love to exploring new code challenges.
 
 ## Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rejaul42&theme=python-dark)](https://git.io/streak-stats)
@@ -20,15 +27,6 @@
 [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rejaul42&theme=aura_dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rejaul42&theme=aura_dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rejaul42&theme=aura_dark)](https://git.io/streak-stats)
-
-## Current Overview
-- 🔭 I’m currently working on: MERN stack project to improve my skills and abilities.
-- 🌱 I’m currently learning: Advance techniques in react, Next.js, Node.js, MongoDB .
-- 👯 I’m looking to collaborate on: Innovative project that challenge and expand my MERN stack expertise.
-- 🤔 I’m looking for help with: mastering best practice in code organization, debugging and efficient utilization of MERNT stack.
-- 💬 Ask me about: JavaScript, react, Node.js, Express .
-- 😄 I'm trying- To make positive impact by using my web development skills to support. 
-- ⚡ Fun fact: I love to exploring new code challenges.
 
 
 ## Technologies that i know
